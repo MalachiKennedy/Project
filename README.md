@@ -1,1 +1,3 @@
 # Project
+**Game Description:**  
+"Explore the Unknown" is an interactive text-and-image-based adventure game where you navigate a mysterious world filled with dark rooms, hidden dangers, and intriguing discoveries. Starting in a cold, shadowy room, you must decide your path—venture north into a foreboding cave or south to a river with a boat. As you explore, collect valuable items like swords and health potions to add to your inventory and help you survive. Be prepared for random events, unexpected encounters, and the challenge of maintaining your health while unraveling the secrets of the unknown. Your choices shape your fate—where will you go next?
